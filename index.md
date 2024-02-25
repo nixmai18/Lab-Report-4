@@ -30,9 +30,20 @@ Keys Pressed
 git<space>clone<space><right-click>
 ```
 Explanation:
-First go to webiste and copy the link by clicking the copy button in the website that copy the ssh link of the repository. Then go back to terminal type out the git clone commmand and use right click to paste the link that we copy from the website https://github.com/ucsd-cse15l-s23/lab7.
+First go to webiste and copy the link by clicking the copy button in the website that copy the ```ssh``` link of the repository. Then go back to terminal type out the ```git clone``` commmand and use right click to paste the link that we copy from the website ```https://github.com/ucsd-cse15l-s23/lab7```.
 
 ## Step 6
+![Image](lab73.png)
+
+Keys Pressed
+```
+cd<space>l<tab><enter>
+bash<space>t<tab><enter>
+```
+Explanation:
+First use ```cd``` command to go in the directory we just clone. Since only ```lab7``` directory start with ```l```, type ```l``` and then ```<tab>``` to auto-complete the directory name and press enter to execute. We then run the ```test.sh``` file by first type ```bash```, and then type ```t``` and then ```<tab>``` to auto-complete the file name since only ```test.sh``` start with ```t```.
+
+## Step 7
 
 
 
