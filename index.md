@@ -16,7 +16,7 @@ Keys Pressed
 ssh<space>nkasibatla@ieng6.ucsd.edu<enter>
 ```
 Explanation:
-The commannd is never run in the terminal, which we need to type out the entire command including the host that we’re connecting to. The ssh key is already set up, so no password required.
+The command is never run in the terminal, which we need to type out the entire command including the host that we’re connecting to. The ssh key is already set up, so no password required.
 
 ## Step 5
 ![Image](lab72.png)
@@ -81,6 +81,16 @@ bash<space>t<tab><enter>
 We use the ```bash``` command to run the ```test.sh``` bash script, which we first type ```bash<space>t``` and auto-complete the file name by typing ```<tab>``` and then ```<enter>``` to execute the command.
 
 ## Step 9
+![Image](lab76.png)
+
+Keys Pressed:
+```
+git<space>add<space>.<enter>
+git<space>commit<space>-m<space>"fix<space>error"<enter>
+git<space>push<enter>
+```
+Explanation:
+First we type out ```git<space>add<space>.<add>``` to add all the files in the directory to git. Then, we type out ```git<space>commit<space>-m<space>``` follow with the commit message ```"fix<space>error"``` and ```<enter>``` to execute the command. Lastly, we type ```git<space>push<enter>``` to push the changes to the directory to github.
 
 
 
