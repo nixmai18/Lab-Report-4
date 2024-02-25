@@ -19,6 +19,22 @@ Explanation:
 The commannd is never run in the terminal, which we need to type out the entire command including the host that we’re connecting to. The ssh key is already set up, so no password required.
 
 ## Step 5
+![Image](lab72.png)
+
+Keys Pressed 
+```
+<open-website(https://github.com/ucsd-cse15l-s23/lab7)>
+<click-button(<> Code)>
+<click-button(copy)>
+<open-terminal>
+git<space>clone<space><right-click>
+```
+Explanation:
+First go to webiste and copy the link by clicking the copy button in the website that copy the ssh link of the repository. Then go back to terminal type out the git clone commmand and use right click to paste the link that we copy from the website https://github.com/ucsd-cse15l-s23/lab7.
+
+## Step 6
+
+
 
 
 
